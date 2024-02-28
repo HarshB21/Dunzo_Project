@@ -1,0 +1,67 @@
+.imglogo1{
+    width: 140px;
+    height: 140px;
+    background-color:  rgb(134, 224, 178);
+    justify-content: center;
+    border-radius: 16px;
+    align-items: center;
+}
+.he{
+    display: flex;
+    flex-direction: column;
+}
+.color1{
+    background-color: rgb(247, 253, 250);
+    margin-bottom: 50px;
+ }
+
+.row1{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 2rem;
+    border: 3px;
+    border-style: ridge;
+}
+.shoplogo1{
+    height: 72px;
+    width: 72px;
+    border-radius: 5px;
+}
+.cart{
+    background-color: rgb(239, 234, 229);
+}
+
+.gcard1{
+    margin-left: 50px;
+    height: 150px;
+    width: 512px;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 0rem !important;
+    background-color: aliceblue;
+}
+
+.bottom{
+    margin-bottom: -10px;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.addbutton{
+    width: 92px;
+    height: 36px;
+    align-items: center;
+    border-radius: 50px;
+    margin-left: auto;
+    margin-top: 30px;
+    color: rgb(0, 179, 122);
+    border: 1px solid;
+}
+
+.gcard1:hover .bottom .green{
+    color:rgb(0, 179, 122) ;
+}
